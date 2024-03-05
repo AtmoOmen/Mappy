@@ -9,7 +9,7 @@ using ImGuiNET;
 using KamiLib;
 using KamiLib.Command;
 using KamiLib.System;
-using Mappy.System.Localization;
+using Mappy.Controllers.Localization;
 
 namespace Mappy.Views.Windows; 
 

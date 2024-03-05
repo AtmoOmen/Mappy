@@ -118,503 +118,501 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Player" xml:space="preserve">
-    <value>Player</value>
+    <value>玩家</value>
   </data>
   <data name="FlagMarker" xml:space="preserve">
-    <value>Flag Marker</value>
+    <value>旗帜标点</value>
   </data>
   <data name="GatheringArea" xml:space="preserve">
-    <value>Gathering Area</value>
+    <value>采集区域</value>
   </data>
   <data name="Waymarks" xml:space="preserve">
-    <value>Waymarks</value>
+    <value>场景标记</value>
   </data>
   <data name="Pets" xml:space="preserve">
-    <value>Pets</value>
+    <value>宠物</value>
   </data>
   <data name="AllianceMembers" xml:space="preserve">
-    <value>Alliance Members</value>
+    <value>团队成员</value>
   </data>
   <data name="TreasureMarkers" xml:space="preserve">
-    <value>Treasure Chests</value>
+    <value>埋藏的宝藏</value>
   </data>
   <data name="QuestMarkers" xml:space="preserve">
-    <value>Quests</value>
+    <value>任务</value>
   </data>
   <data name="GatheringPoints" xml:space="preserve">
-    <value>Gathering Points</value>
+    <value>采集点</value>
   </data>
   <data name="MapMarkers" xml:space="preserve">
-    <value>Map Markers</value>
+    <value>地图标点</value>
   </data>
   <data name="HousingMarkers" xml:space="preserve">
-    <value>Houses</value>
+    <value>房屋</value>
   </data>
   <data name="FATEs" xml:space="preserve">
-    <value>FATEs</value>
+    <value>临危受命</value>
   </data>
   <data name="ShowIcon" xml:space="preserve">
-    <value>Show Icon</value>
+    <value>显示图标</value>
   </data>
   <data name="IconConfig" xml:space="preserve">
-    <value>Icon Configuration</value>
+    <value>图标设置</value>
   </data>
   <data name="ShowTooltip" xml:space="preserve">
-    <value>Show Tooltip</value>
+    <value>显示提示信息</value>
   </data>
   <data name="IconScale" xml:space="preserve">
-    <value>Scale</value>
+    <value>缩放</value>
   </data>
   <data name="Enable" xml:space="preserve">
-    <value>Enable</value>
+    <value>启用</value>
   </data>
   <data name="ModuleOptions" xml:space="preserve">
-    <value>Module Options</value>
+    <value>模块选项</value>
   </data>
   <data name="Layer" xml:space="preserve">
-    <value>Layer</value>
+    <value>层级</value>
   </data>
   <data name="LayerHelp" xml:space="preserve">
-    <value>Controls the order that markers are drawn, higher values will be shown on top of lower values.</value>
+    <value>控制标点绘制的优先级, 较高的值会被优先绘制</value>
   </data>
   <data name="KeepOpen" xml:space="preserve">
-    <value>Keep Open</value>
+    <value>保持开启</value>
   </data>
   <data name="FollowPlayer" xml:space="preserve">
-    <value>Follow Player</value>
+    <value>跟随玩家</value>
   </data>
   <data name="LockWindow" xml:space="preserve">
-    <value>Lock Window Position</value>
+    <value>锁定窗口位置</value>
   </data>
   <data name="HideWindowFrame" xml:space="preserve">
-    <value>Hide Window Frame</value>
+    <value>隐藏边框</value>
   </data>
   <data name="FadeWhenUnfocused" xml:space="preserve">
-    <value>Fade When Unfocused</value>
+    <value>失焦时半隐</value>
   </data>
   <data name="AlwaysShowToolbar" xml:space="preserve">
-    <value>Always Show Toolbar</value>
+    <value>总是显示工具栏</value>
   </data>
   <data name="FadePercent" xml:space="preserve">
-    <value>Fade Opacity</value>
+    <value>半隐不透明度</value>
   </data>
   <data name="WindowOptions" xml:space="preserve">
-    <value>Map Window Options</value>
+    <value>地图窗口选项</value>
   </data>
   <data name="EnableIntegrations" xml:space="preserve">
-    <value>Enable Integrations</value>
+    <value>启用集成</value>
   </data>
   <data name="IntegrationsDescription" xml:space="preserve">
-    <value>Replaces all of the games normal map functions with Mappy functions instead</value>
+    <value>以插件功能替代所有一般的游戏原生地图功能</value>
   </data>
   <data name="PartyMembers" xml:space="preserve">
-    <value>Party Members</value>
+    <value>小队成员</value>
   </data>
   <data name="HideBetweenAreas" xml:space="preserve">
-    <value>Hide Between Areas</value>
+    <value>过图时隐藏</value>
   </data>
   <data name="HideInDuties" xml:space="preserve">
-    <value>Hide in Duties</value>
+    <value>副本内隐藏</value>
   </data>
   <data name="HideInCombat" xml:space="preserve">
-    <value>Hide in Combat</value>
+    <value>战斗时隐藏</value>
   </data>
   <data name="TooltipColor" xml:space="preserve">
-    <value>Tooltip Color</value>
+    <value>提示信息颜色</value>
   </data>
   <data name="ModuleConfig" xml:space="preserve">
-    <value>Module Config</value>
+    <value>模块设置</value>
   </data>
   <data name="IconSelection" xml:space="preserve">
-    <value>Icon Selection</value>
+    <value>图标选择</value>
   </data>
   <data name="ShowRing" xml:space="preserve">
-    <value>Show Circle</value>
+    <value>显示圆圈</value>
   </data>
   <data name="ExpiringWarning" xml:space="preserve">
-    <value>Expiring Warning</value>
+    <value>过期警告</value>
   </data>
   <data name="EarlyWarningTime" xml:space="preserve">
-    <value>Early Warning Time</value>
+    <value>预警时间</value>
   </data>
   <data name="CircleColor" xml:space="preserve">
-    <value>Circle Color</value>
+    <value>圆圈颜色</value>
   </data>
   <data name="ExpiringColor" xml:space="preserve">
-    <value>ExpiringColor</value>
+    <value>过期颜色</value>
   </data>
   <data name="Default" xml:space="preserve">
-    <value>Default</value>
+    <value>默认</value>
   </data>
   <data name="GameIntegrations" xml:space="preserve">
-    <value>Game Integrations</value>
+    <value>游戏功能集成</value>
   </data>
   <data name="DisplayOptions" xml:space="preserve">
-    <value>Display Options</value>
+    <value>显示选项</value>
   </data>
   <data name="ModuleColors" xml:space="preserve">
-    <value>Module Colors</value>
+    <value>模块颜色设置</value>
   </data>
   <data name="AetherytesOnTop" xml:space="preserve">
-    <value>Draw Aetherytes on Top</value>
+    <value>将以太之光绘制于最上层</value>
   </data>
   <data name="StandardColor" xml:space="preserve">
-    <value>Standard Marker Color</value>
+    <value>标准标记颜色</value>
   </data>
   <data name="MapLinkColor" xml:space="preserve">
-    <value>Map Link Color</value>
+    <value>地图链接颜色</value>
   </data>
   <data name="InstanceLinkColor" xml:space="preserve">
-    <value>Instance Link Color</value>
+    <value>副本区链接颜色</value>
   </data>
   <data name="AetheryteColor" xml:space="preserve">
-    <value>Aetheryte Color</value>
+    <value>以太之光颜色</value>
   </data>
   <data name="AethernetColor" xml:space="preserve">
-    <value>Aethernet Color</value>
+    <value>城内以太之晶颜色</value>
   </data>
   <data name="DisplayedMarkers" xml:space="preserve">
-    <value>Displayed Markers</value>
+    <value>显示标点</value>
   </data>
   <data name="ShowCone" xml:space="preserve">
-    <value>Show Cone</value>
+    <value>显示可视范围</value>
   </data>
   <data name="ConeRadius" xml:space="preserve">
-    <value>Cone Radius</value>
+    <value>可视范围半径</value>
   </data>
   <data name="ConeAngle" xml:space="preserve">
-    <value>Cone Angle</value>
+    <value>可视范围角度</value>
   </data>
   <data name="OutlineThickness" xml:space="preserve">
-    <value>Outline Thickness</value>
+    <value>轮廓粗细</value>
   </data>
   <data name="OutlineColor" xml:space="preserve">
-    <value>Outline Color</value>
+    <value>轮廓颜色</value>
   </data>
   <data name="FillColor" xml:space="preserve">
-    <value>Fill Color</value>
+    <value>填充颜色</value>
   </data>
   <data name="HideUnacceptedQuests" xml:space="preserve">
-    <value>Hide Unaccepted Quests</value>
+    <value>隐藏未接取的任务</value>
   </data>
   <data name="HideAcceptedQuests" xml:space="preserve">
-    <value>Hide Accepted Quests</value>
+    <value>隐藏已接取的任务</value>
   </data>
   <data name="HideLeveQuests" xml:space="preserve">
-    <value>Hide Levequests</value>
+    <value>隐藏理符任务</value>
   </data>
   <data name="InProgressColor" xml:space="preserve">
-    <value>Active Quest Color</value>
+    <value>活跃任务颜色</value>
   </data>
   <data name="AddFlag" xml:space="preserve">
-    <value>Add Flag</value>
+    <value>新增标点</value>
   </data>
   <data name="RemoveFlag" xml:space="preserve">
-    <value>Remove Flag</value>
+    <value>移除标点</value>
   </data>
   <data name="RemoveGatheringArea" xml:space="preserve">
-    <value>Remove Marked Area</value>
+    <value>移除标记区域</value>
   </data>
   <data name="CannotTeleport" xml:space="preserve">
-    <value>Cannot teleport in this situation.</value>
+    <value>当前状态下无法传送</value>
   </data>
   <data name="Teleport" xml:space="preserve">
-    <value>Teleport</value>
+    <value>传送</value>
   </data>
   <data name="TeleportIPCNotFound" xml:space="preserve">
-    <value>Teleport IPC not found</value>
+    <value>未找到传送 IPC</value>
   </data>
   <data name="TeleporterMissingError" xml:space="preserve">
-    <value>To use the teleport function, you must install the 'Teleporter' plugin</value>
+    <value>要使用传送功能, 必须安装并启用 Teleporter 插件</value>
   </data>
   <data name="TeleportingToLocation" xml:space="preserve">
-    <value>Teleporting to {0}</value>
+    <value>传送至 {0}</value>
   </data>
   <data name="SearchForMap" xml:space="preserve">
-    <value>Search by Name</value>
+    <value>在地图中搜索</value>
   </data>
   <data name="SearchHint" xml:space="preserve">
-    <value>Search...</value>
+    <value>搜索...</value>
   </data>
   <data name="CenterOnPlayer" xml:space="preserve">
-    <value>Center on Player</value>
+    <value>玩家居中</value>
   </data>
   <data name="Settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>设置</value>
   </data>
   <data name="ShowAndUnlock" xml:space="preserve">
-    <value>Show Frame and Unlock Window</value>
+    <value>显示边框并解除锁定</value>
   </data>
   <data name="HideAndLock" xml:space="preserve">
-    <value>Hide Frame and Lock Window </value>
+    <value>隐藏边框并锁定窗口</value>
   </data>
   <data name="General" xml:space="preserve">
-    <value>General</value>
+    <value>一般</value>
   </data>
   <data name="Modules" xml:space="preserve">
-    <value>Modules</value>
+    <value>模块</value>
   </data>
   <data name="ZoomSpeed" xml:space="preserve">
-    <value>Zoom Speed</value>
+    <value>缩放速度</value>
   </data>
   <data name="ShowToolbarOnHover" xml:space="preserve">
-    <value>Show Toolbar on Hover</value>
+    <value>鼠标悬浮时显示工具栏</value>
   </data>
   <data name="HideWithGameGui" xml:space="preserve">
-    <value>Hide With Game GUI</value>
+    <value>隐藏游戏原生界面</value>
   </data>
   <data name="LeveQuestColor" xml:space="preserve">
-    <value>Levequest Color</value>
+    <value>理符任务颜色</value>
   </data>
   <data name="MoveFlag" xml:space="preserve">
-    <value>Move Flag Here</value>
+    <value>移动标点至此处</value>
   </data>
   <data name="ShowMiscTooltips" xml:space="preserve">
-    <value>Show Misc Tooltips</value>
+    <value>显示附加提示信息</value>
   </data>
   <data name="ShowMiscTooltipsHelp" xml:space="preserve">
-    <value>Shows tooltips for map icons such as "Repair", "Shop", "Trader"</value>
+    <value>为类似"修理", "交易"等的图标显示附加提示信息</value>
   </data>
   <data name="TooltipConfig" xml:space="preserve">
-    <value>Tooltip Config</value>
+    <value>提示信息设置</value>
   </data>
   <data name="HelpText" xml:space="preserve">
-    <value>Display this help message</value>
+    <value>显示该帮助信息</value>
   </data>
   <data name="OpenConfigWindow" xml:space="preserve">
-    <value>Open Configuration Window</value>
+    <value>开启设置界面</value>
   </data>
   <data name="FadeWhenMoving" xml:space="preserve">
-    <value>Fade When Moving</value>
+    <value>移动时半隐</value>
   </data>
   <data name="MiscMarkers" xml:space="preserve">
-    <value>Misc Markers</value>
+    <value>其他标点</value>
   </data>
   <data name="Never" xml:space="preserve">
-    <value>Never</value>
+    <value>从不</value>
   </data>
   <data name="Always" xml:space="preserve">
-    <value>Always</value>
+    <value>总是</value>
   </data>
   <data name="WhenMoving" xml:space="preserve">
-    <value>When Moving</value>
+    <value>移动时</value>
   </data>
   <data name="WhenFocused" xml:space="preserve">
-    <value>When Focused</value>
+    <value>聚焦时</value>
   </data>
   <data name="WhenUnFocused" xml:space="preserve">
-    <value>When Unfocused</value>
+    <value>失焦时</value>
   </data>
   <data name="FadeMode" xml:space="preserve">
-    <value>Fade Mode</value>
+    <value>半隐模式</value>
   </data>
   <data name="IslandSanctuary" xml:space="preserve">
-    <value>Island Sanctuary</value>
+    <value>无人岛</value>
   </data>
   <data name="FollowOnOpen" xml:space="preserve">
-    <value>Follow on Open</value>
+    <value>开启时跟随玩家</value>
   </data>
   <data name="FollowOnOpenHelp" xml:space="preserve">
-    <value>Enables Follow Player when opening the map</value>
+    <value>当打开地图时, 设置跟随玩家</value>
   </data>
   <data name="AllowZoomOnHover" xml:space="preserve">
-    <value>Allow Zoom on Hover</value>
+    <value>鼠标悬浮时允许缩放</value>
   </data>
   <data name="RemoveCommandMarker" xml:space="preserve">
-    <value>Remove Command Marker</value>
+    <value>移除命令标点</value>
   </data>
   <data name="RemoveQuestMarker" xml:space="preserve">
-    <value>Remove Quest Marker</value>
+    <value>移除任务标点</value>
   </data>
   <data name="TemporaryMarkers" xml:space="preserve">
-    <value>Temporary Markers</value>
+    <value>临时标点</value>
   </data>
   <data name="PluginIntegrations" xml:space="preserve">
-    <value>Plugin Integrations</value>
+    <value>插件联动</value>
   </data>
   <data name="DisplayJobIcons" xml:space="preserve">
-    <value>Display Job Icons</value>
+    <value>显示职业图标</value>
   </data>
   <data name="DisplayJobIconsHelp" xml:space="preserve">
-    <value>Displays the players job icon on the map instead of the selected icon</value>
+    <value>在地图上显示玩家的职业图标而不是选定图标</value>
   </data>
   <data name="Logging" xml:space="preserve">
-    <value>Logging</value>
+    <value>记录</value>
   </data>
   <data name="Harvesting" xml:space="preserve">
-    <value>Harvesting</value>
+    <value>收获</value>
   </data>
   <data name="Quarrying" xml:space="preserve">
-    <value>Quarrying</value>
+    <value>碎石</value>
   </data>
   <data name="Mining" xml:space="preserve">
-    <value>Mining</value>
+    <value>采掘</value>
   </data>
   <data name="Fishing" xml:space="preserve">
-    <value>Fishing</value>
+    <value>捕鱼</value>
   </data>
   <data name="FadeOptions" xml:space="preserve">
-    <value>Fade Options</value>
+    <value>半隐选项</value>
   </data>
   <data name="ToolbarOptions" xml:space="preserve">
-    <value>Toolbar Options</value>
+    <value>工具栏选项</value>
   </data>
   <data name="ZoomOptions" xml:space="preserve">
-    <value>Zoom Options</value>
+    <value>缩放选项</value>
   </data>
   <data name="IgnoreEscapeKey" xml:space="preserve">
-    <value>Ignore Escape Key</value>
+    <value>忽略 Esc 键</value>
   </data>
   <data name="IgnoreEscapeKeyHelp" xml:space="preserve">
-    <value>Prevents the escape key from closing the Map Window</value>
+    <value>禁止 Esc 键关闭地图窗口</value>
   </data>
   <data name="CenterMap" xml:space="preserve">
-    <value>Center Map</value>
+    <value>地图中心居中</value>
   </data>
   <data name="WindowPosition" xml:space="preserve">
-    <value>Window Position</value>
+    <value>窗口位置</value>
   </data>
   <data name="WindowSize" xml:space="preserve">
-    <value>Window Size</value>
+    <value>窗口大小</value>
   </data>
   <data name="Apartment" xml:space="preserve">
-    <value>Apartment</value>
+    <value>公寓</value>
   </data>
   <data name="Plot" xml:space="preserve">
-    <value>Plot</value>
+    <value>号</value>
   </data>
   <data name="TimeRemaining" xml:space="preserve">
-    <value>Time Remaining</value>
+    <value>剩余时间</value>
   </data>
   <data name="Progress" xml:space="preserve">
-    <value>Progress</value>
+    <value>进度</value>
   </data>
   <data name="ZoomOnFlag" xml:space="preserve">
-    <value>Zoom in on Flag</value>
+    <value>缩放标点</value>
   </data>
   <data name="ZoomOnFlagHelp" xml:space="preserve">
-    <value>Zooms on flags when clicking on map location links</value>
+    <value>当点击地图链接时, 缩放至标点</value>
   </data>
   <data name="CenterOnOpen" xml:space="preserve">
-    <value>Center on Open</value>
+    <value>开启时居中</value>
   </data>
   <data name="CenterOnOpenHelp" xml:space="preserve">
-    <value>Centers the map when opening it</value>
+    <value>当打开地图时设置居中显示</value>
   </data>
   <data name="UseRegionSearch" xml:space="preserve">
-    <value>Use Region Search</value>
+    <value>使用区域搜索</value>
   </data>
   <data name="UseRegionSearchHelp" xml:space="preserve">
-    <value>Use alternative search ui for finding maps</value>
+    <value>查找地图时使用替代的搜索 UI</value>
   </data>
   <data name="Search" xml:space="preserve">
-    <value>Search</value>
+    <value>搜索</value>
   </data>
   <data name="IconDisableInfo" xml:space="preserve">
-    <value>This tab allows you to disable showing any icon that Mappy has shown you
-Icons that you haven't seen yet can not be disabled</value>
+    <value>此处用于禁用 Mappy 已显示过的任何图标, 未显示过的图标无法禁用</value>
   </data>
   <data name="IconDisableNoIcons" xml:space="preserve">
-    <value>No icons have been seen yet
-Open Map Window to populate data</value>
+    <value>还未显示过任何图标, 请打开地图以获取图标数据</value>
   </data>
   <data name="DirectionalMarker" xml:space="preserve">
-    <value>Directional Marker</value>
+    <value>定向标点</value>
   </data>
   <data name="DistanceThreshold" xml:space="preserve">
-    <value>Distance Threshold</value>
+    <value>距离阈值</value>
   </data>
   <data name="NoLayersInfo" xml:space="preserve">
-    <value>No layers for this map</value>
+    <value>当前地图无绘制层级</value>
   </data>
   <data name="ShowHousingNumber" xml:space="preserve">
-    <value>Show housing number</value>
+    <value>显示房屋编号</value>
   </data>
   <data name="TeleportCost" xml:space="preserve">
-    <value>Teleport cost</value>
+    <value>传送费用</value>
   </data>
   <data name="gil" xml:space="preserve">
-    <value>gil</value>
+    <value>金币</value>
   </data>
   <data name="ShowTeleportCosts" xml:space="preserve">
-    <value>Show Teleport Costs</value>
+    <value>显示传送费</value>
   </data>
   <data name="Hostiles" xml:space="preserve">
-    <value>Hostiles</value>
+    <value>敌对目标</value>
   </data>
   <data name="FocusObjective" xml:space="preserve">
-    <value>Center on Links</value>
+    <value>链接居中</value>
   </data>
   <data name="FocusObjectiveHelp" xml:space="preserve">
-    <value>Center and zoom in on target when clicking a link</value>
+    <value>当点击链接时, 居中并放大目标</value>
   </data>
   <data name="Disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>禁用</value>
   </data>
   <data name="Map" xml:space="preserve">
-    <value>Map</value>
-  </data>
-  <data name="GoToCommandHelp" xml:space="preserve">
-    <value>Centers map on specified "X, Y" coordinates</value>
-  </data>
-  <data name="MapLayers" xml:space="preserve">
-    <value>Map Layers</value>
-  </data>
-  <data name="SearchByRegion" xml:space="preserve">
-    <value>Search by Region</value>
-  </data>
-  <data name="ShowMapName" xml:space="preserve">
-    <value>Show Map Name</value>
-  </data>
-  <data name="UnacceptedQuestColor" xml:space="preserve">
-    <value>Unaccepted Quest Color</value>
-  </data>
-  <data name="ScaleCone" xml:space="preserve">
-    <value>Ignore Map Zoom</value>
-  </data>
-  <data name="ScaleConeHelp" xml:space="preserve">
-    <value>Toggle will affect whether cone changes size when zooming in/out on map</value>
-  </data>
-  <data name="Command" xml:space="preserve">
-    <value>Command</value>
-  </data>
-  <data name="Enabling" xml:space="preserve">
-    <value>Enabling</value>
-  </data>
-  <data name="Disabling" xml:space="preserve">
-    <value>Disabling</value>
-  </data>
-  <data name="EnableModuleHelp" xml:space="preserve">
-    <value>Enable the module</value>
-  </data>
-  <data name="DisableModuleHelp" xml:space="preserve">
-    <value>Disable the module</value>
-  </data>
-  <data name="ToggleModuleHelp" xml:space="preserve">
-    <value>Toggle the module</value>
-  </data>
-  <data name="PvPError" xml:space="preserve">
-    <value>Mappy is not available in PvP.</value>
-  </data>
-  <data name="OpenMapWindow" xml:space="preserve">
-    <value>Open Map Window</value>
-  </data>
-  <data name="ToggleMapWindow" xml:space="preserve">
-    <value>Toggle Map Window</value>
+    <value>地图</value>
   </data>
   <data name="CloseMapWindow" xml:space="preserve">
-    <value>Close Map Window</value>
+    <value>关闭地图窗口</value>
   </data>
-  <data name="OpenIPCDemo" xml:space="preserve">
-    <value>Open IPC Demo</value>
+  <data name="Command" xml:space="preserve">
+    <value>命令</value>
+  </data>
+  <data name="DisableModuleHelp" xml:space="preserve">
+    <value>禁用模块</value>
+  </data>
+  <data name="Disabling" xml:space="preserve">
+    <value>禁用中</value>
+  </data>
+  <data name="EnableModuleHelp" xml:space="preserve">
+    <value>启用模块</value>
+  </data>
+  <data name="Enabling" xml:space="preserve">
+    <value>启用中</value>
+  </data>
+  <data name="GoToCommandHelp" xml:space="preserve">
+    <value>居中地图于指定的 XY 坐标上</value>
   </data>
   <data name="IgnoreJournalSetting" xml:space="preserve">
-    <value>Ignore Journal Visibility Setting</value>
+    <value>忽略任务日志设置</value>
   </data>
   <data name="IgnoreJournalSettingHelp" xml:space="preserve">
-    <value>Ignores the visibility setting in the journal and shows all quests.</value>
+    <value>开启后, 即使你在任务日志中设置隐藏了某个任务, 地图仍然会显示全部的任务图标</value>
+  </data>
+  <data name="MapLayers" xml:space="preserve">
+    <value>地图层级</value>
+  </data>
+  <data name="OpenIPCDemo" xml:space="preserve">
+    <value>开启 IPC Demo</value>
+  </data>
+  <data name="OpenMapWindow" xml:space="preserve">
+    <value>打开地图窗口</value>
+  </data>
+  <data name="PvPError" xml:space="preserve">
+    <value>Mappy 在 PVP 区域内不可用</value>
+  </data>
+  <data name="ScaleCone" xml:space="preserve">
+    <value>忽略地图缩放</value>
+  </data>
+  <data name="ScaleConeHelp" xml:space="preserve">
+    <value>开启后, 地图缩放将不会影响可视范围的显示大小</value>
+  </data>
+  <data name="SearchByRegion" xml:space="preserve">
+    <value>根据地区搜索</value>
+  </data>
+  <data name="ShowMapName" xml:space="preserve">
+    <value>显示地图名称</value>
+  </data>
+  <data name="ToggleMapWindow" xml:space="preserve">
+    <value>切换地图窗口开启状态</value>
+  </data>
+  <data name="ToggleModuleHelp" xml:space="preserve">
+    <value>切换模块开启状态</value>
+  </data>
+  <data name="UnacceptedQuestColor" xml:space="preserve">
+    <value>未接取任务的颜色</value>
   </data>
   <data name="UnCollapseWindow" xml:space="preserve">
-    <value>Un-Collapse Window on Command</value>
+    <value>使用命令后展开窗口</value>
   </data>
 </root>

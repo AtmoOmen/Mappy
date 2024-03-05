@@ -1,8 +1,8 @@
 ﻿using Dalamud.Plugin;
 using KamiLib;
 using KamiLib.System;
+using Mappy.Controllers.Localization;
 using Mappy.System;
-using Mappy.System.Localization;
 using Mappy.Views.Windows;
 
 namespace Mappy;

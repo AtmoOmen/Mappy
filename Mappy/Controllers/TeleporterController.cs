@@ -3,7 +3,7 @@ using Dalamud.Plugin.Ipc.Exceptions;
 using KamiLib.Game;
 using Lumina.Excel.GeneratedSheets;
 using Mappy;
-using Mappy.System.Localization;
+using Mappy.Controllers.Localization;
 
 namespace DailyDuty.System;
 

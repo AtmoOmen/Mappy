@@ -6,10 +6,10 @@ using FFXIVClientStructs.FFXIV.Client.Game.Fate;
 using KamiLib.Game;
 using Lumina.Excel.GeneratedSheets;
 using Mappy.Abstracts;
+using Mappy.Controllers.Localization;
 using Mappy.Models;
 using Mappy.Models.Enums;
 using Mappy.Models.ModuleConfiguration;
-using Mappy.System.Localization;
 
 namespace Mappy.System.Modules;
 

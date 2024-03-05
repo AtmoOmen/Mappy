@@ -4,8 +4,8 @@ using System.Linq;
 using Dalamud.Interface;
 using Dalamud.Interface.Utility;
 using ImGuiNET;
+using Mappy.Controllers.Localization;
 using Mappy.System;
-using Mappy.System.Localization;
 
 namespace Mappy.Views.General;
 

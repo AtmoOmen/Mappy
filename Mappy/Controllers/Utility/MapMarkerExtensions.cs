@@ -4,8 +4,8 @@ using DailyDuty.System;
 using Dalamud.Utility;
 using KamiLib.Game;
 using Lumina.Excel.GeneratedSheets;
+using Mappy.Controllers.Localization;
 using Mappy.System;
-using Mappy.System.Localization;
 using Action = System.Action;
 
 namespace Mappy.Utility; 

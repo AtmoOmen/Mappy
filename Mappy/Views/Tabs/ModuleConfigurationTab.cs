@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using KamiLib.Interfaces;
+using Mappy.Controllers.Localization;
 using Mappy.System;
-using Mappy.System.Localization;
 using Mappy.Views.Components;
 
 namespace Mappy.Views.Tabs;

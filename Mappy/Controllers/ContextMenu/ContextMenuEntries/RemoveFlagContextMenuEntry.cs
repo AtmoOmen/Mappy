@@ -1,8 +1,8 @@
 ﻿using System.Numerics;
 using FFXIVClientStructs.FFXIV.Client.UI.Agent;
 using Mappy.Abstracts;
+using Mappy.Controllers.Localization;
 using Mappy.Models.Enums;
-using Mappy.System.Localization;
 using Mappy.System.Modules;
 
 namespace Mappy.Models.ContextMenu; 

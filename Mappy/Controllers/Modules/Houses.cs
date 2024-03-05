@@ -9,10 +9,10 @@ using KamiLib.Game;
 using Lumina.Excel;
 using Lumina.Excel.GeneratedSheets;
 using Mappy.Abstracts;
+using Mappy.Controllers.Localization;
 using Mappy.Models;
 using Mappy.Models.Enums;
 using Mappy.Models.ModuleConfiguration;
-using Mappy.System.Localization;
 
 namespace Mappy.System.Modules;
 
@@ -95,7 +95,7 @@ public unsafe class Houses : ModuleBase {
 
     private string GetTooltip(ExcelRow marker) => marker.SubRowId switch {
         60 or 61 => Strings.Apartment,
-        _ => $"{Strings.Plot} {marker.SubRowId + 1}"
+        _ => $"{marker.SubRowId + 1} {Strings.Plot}"
     };
 
     private bool IsHousingManagerValid() {

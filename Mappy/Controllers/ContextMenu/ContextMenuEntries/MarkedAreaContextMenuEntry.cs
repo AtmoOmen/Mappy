@@ -1,7 +1,7 @@
 ﻿using System.Numerics;
 using Mappy.Abstracts;
+using Mappy.Controllers.Localization;
 using Mappy.Models.Enums;
-using Mappy.System.Localization;
 using Mappy.System.Modules;
 
 namespace Mappy.Models.ContextMenu;

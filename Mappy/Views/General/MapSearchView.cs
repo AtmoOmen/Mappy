@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 using Dalamud.Interface.Utility;
 using ImGuiNET;
 using Mappy.Abstracts;
+using Mappy.Controllers.Localization;
 using Mappy.Interfaces;
-using Mappy.System.Localization;
 using Mappy.Utility;
 
 namespace Mappy.Views.General;

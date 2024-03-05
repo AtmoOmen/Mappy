@@ -9,9 +9,9 @@ using KamiLib.Game;
 using KamiLib.System;
 using KamiLib.Utility;
 using Lumina.Excel.GeneratedSheets;
+using Mappy.Controllers.Localization;
 using Mappy.Models;
 using Mappy.Models.Enums;
-using Mappy.System.Localization;
 using Mappy.Utility;
 using MapData = Mappy.System.MapData;
 

@@ -1,7 +1,7 @@
 ﻿using KamiLib.AutomaticUserInterface;
 using KamiLib.Interfaces;
+using Mappy.Controllers.Localization;
 using Mappy.System;
-using Mappy.System.Localization;
 
 namespace Mappy.Views.Tabs;
 
